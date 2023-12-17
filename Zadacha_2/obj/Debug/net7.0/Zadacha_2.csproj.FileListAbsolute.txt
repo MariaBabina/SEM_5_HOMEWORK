@@ -1,0 +1,14 @@
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\bin\Debug\net7.0\Zadacha_2.exe
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\bin\Debug\net7.0\Zadacha_2.deps.json
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\bin\Debug\net7.0\Zadacha_2.runtimeconfig.json
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\bin\Debug\net7.0\Zadacha_2.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\bin\Debug\net7.0\Zadacha_2.pdb
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.AssemblyInfoInputs.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.AssemblyInfo.cs
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.csproj.CoreCompileInputs.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\refint\Zadacha_2.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.pdb
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\Zadacha_2.genruntimeconfig.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_2\obj\Debug\net7.0\ref\Zadacha_2.dll
