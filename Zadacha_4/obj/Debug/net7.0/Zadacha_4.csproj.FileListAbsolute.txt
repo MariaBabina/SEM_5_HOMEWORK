@@ -1,0 +1,14 @@
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\bin\Debug\net7.0\Zadacha_4.exe
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\bin\Debug\net7.0\Zadacha_4.deps.json
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\bin\Debug\net7.0\Zadacha_4.runtimeconfig.json
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\bin\Debug\net7.0\Zadacha_4.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\bin\Debug\net7.0\Zadacha_4.pdb
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.AssemblyInfoInputs.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.AssemblyInfo.cs
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.csproj.CoreCompileInputs.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\refint\Zadacha_4.dll
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.pdb
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\Zadacha_4.genruntimeconfig.cache
+D:\cources\GEEKBRAINS\ОСНОВЫ ПРОГРАММИРОВАНИЯ\С#\Domashka_Sem5\Zadacha_4\obj\Debug\net7.0\ref\Zadacha_4.dll
